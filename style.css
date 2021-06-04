@@ -1,11 +1,14 @@
 body {
     font-family: sans-serif;
+    text-align: 50px;
+    background: linear-gradient(orange, yellow);
 }
 
 header {
     background: linear-gradient(red, blue);
+    display: flex;
 }
 
 p {
-    background:linear-gradient(orange, green) ;
+    background:linear-gradient(orange, green);
 }
